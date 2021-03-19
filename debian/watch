@@ -1,0 +1,3 @@
+version=1.0
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/molotov-$1\.tar\.gz/ \
+  https://github.com/cizordj/molotov/tags .*/v?(\d\S+)\.tar\.gz
