@@ -1,1 +1,1 @@
-./debian/molotov/usr/bin/molotov /usr/bin
+./debian/tmp/usr/bin/molotov usr/bin
