@@ -2,7 +2,7 @@ Source: molotov
 Section: misc
 Priority: optional
 Maintainer: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
-Build-Depends: debhelper-compat (= 13), curl
+Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://cizordj.github.io/molotov
