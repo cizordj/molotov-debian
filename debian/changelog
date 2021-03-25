@@ -1,3 +1,9 @@
+molotov (1.1) unstable; urgency=medium
+
+  * Change the package format to quilt.
+
+ -- Cézar Augusto de Campos <cezargaiteiro@protonmail.com>  Wed, 24 Mar 2021 21:03:59 -0300
+
 molotov (1.0) unstable; urgency=medium
 
   * Initial Release.
