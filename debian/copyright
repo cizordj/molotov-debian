@@ -2,6 +2,12 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: molotov
 Upstream-Contact: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
 Source: <https://github.com/cizordj/molotov>
+Comment: Why this package is in the contrib area
+ The reason this package is in this area is because it only does do one thing
+ and that thing is to manage a Windows iso image and as everyone knows windows
+ is not free and software that depends on non-free components should go to the
+ contrib area of the debian. Even though molotov is free software it's pretty
+ useless without a Windows image.
 
 Files: *
 Copyright: 2020 Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
