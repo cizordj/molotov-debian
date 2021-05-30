@@ -1,5 +1,5 @@
 Source: molotov
-Section: misc
+Section: contrib/otherosfs
 Priority: optional
 Maintainer: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
 Build-Depends: debhelper-compat (= 13)
