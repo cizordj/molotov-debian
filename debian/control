@@ -3,7 +3,7 @@ Section: contrib/otherosfs
 Priority: optional
 Maintainer: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Homepage: https://cizordj.github.io/molotov
 Vcs-Browser: https://github.com/cizordj/molotov-debian
@@ -13,10 +13,10 @@ Package: molotov
 Architecture: all
 Conflicts: python3-molotov
 Depends: dash,
- mount,
+ mount (>= 2.37.2),
  util-linux (>= 2.36),
  fdisk (>= 2.36),
- ntfs-3g,
+ ntfs-3g (>= 1:2021.8.22),
  dosfstools (>= 4.1),
  grub2-common (>= 2.04),
  grub-efi-amd64-bin (>= 2.04),
