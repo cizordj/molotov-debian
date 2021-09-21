@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/cizordj/molotov-debian
 Vcs-Git: https://github.com/cizordj/molotov-debian.git
 
 Package: molotov
-Architecture: all
+Architecture: amd64
 Conflicts: python3-molotov
 Depends: dash,
  mount (>= 2.37.2),
