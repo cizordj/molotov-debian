@@ -1,3 +1,12 @@
+molotov (1.2.1-1) unstable; urgency=medium
+
+  * New upstream release (v1.2.1)
+  * Bump standards version to 4.6.0
+  * Change package architecture to amd64
+  * Update minor stuff in the package system
+
+ -- Cézar Augusto de Campos <cezargaiteiro@protonmail.com>  Tue, 10 May 2022 18:21:00 -0300
+
 molotov (1.2-1) unstable; urgency=medium
 
   * Initial release
