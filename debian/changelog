@@ -2,9 +2,9 @@ molotov (1.2.1-2) unstable; urgency=medium
 
   * Bump standards version to 4.6.1
   * Add GPG signature verification on debian/watch
-  * Add upstream metadata file
+  * Add an upstream metadata file
 
- -- Cézar Augusto de Campos <cezargaiteiro@protonmail.com>  Fri, 13 May 2022 23:48:00 -0300
+ -- Cézar Augusto de Campos <cezargaiteiro@protonmail.com>  Mon, 23 May 2022 07:55:00 -0300
 
 molotov (1.2.1-1) unstable; urgency=medium
 
