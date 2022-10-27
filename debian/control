@@ -1,7 +1,7 @@
 Source: molotov
 Section: contrib/otherosfs
 Priority: optional
-Maintainer: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
+Maintainer: Cézar Augusto de Campos <cezargaiteiro+mentors.debian.net@proton.me>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1
 Rules-Requires-Root: no
