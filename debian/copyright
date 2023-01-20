@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: molotov
-Upstream-Contact: Cézar Augusto de Campos <cezargaiteiro@protonmail.com>
+Upstream-Contact: Cézar Augusto de Campos <cezargaiteiro+molotov@protonmail.com>
 Source: <https://github.com/cizordj/molotov>
 Comment: Why this package is in the contrib area
  The reason why molotov is in the contrib area is because it depends on a
