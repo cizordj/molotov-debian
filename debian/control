@@ -3,7 +3,7 @@ Section: contrib/otherosfs
 Priority: optional
 Maintainer: Cézar Augusto de Campos <debian@cezarcampos.com.br>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.7.0
+Standards-Version: 4.7.0.2
 Rules-Requires-Root: no
 Homepage: https://codeberg.org/cizordj/molotov-debian/
 Vcs-Browser: https://codeberg.org/cizordj/molotov-debian/
