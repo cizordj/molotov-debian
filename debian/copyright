@@ -1,15 +1,14 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: molotov
-Upstream-Contact: Cézar Augusto de Campos <cezargaiteiro+molotov@protonmail.com>
-Source: <https://github.com/cizordj/molotov>
+Upstream-Contact: Cézar Augusto de Campos <debian@cezarcampos.com.br>
+Source: <https://codeberg.org/cizordj/molotov.git>
 Comment: Why this package is in the contrib area
- The reason why molotov is in the contrib area is because it depends on a
- Windows image to work and as everyone knows, Windows is proprietary and
- every program that depends on that must go the contrib area,
- according to the Debian rules
+ Molotov is in the contrib area because it depends on a Windows image to work.
+ Since Windows is proprietary software, any program that relies on it must be
+ placed in the contrib area according to Debian rules.
 
 Files: *
-Copyright: 2022 Cézar Augusto de Campos <cezargaiteiro+mentors.debian.net@proton.me>
+Copyright: 2024 Cézar Augusto de Campos <debian@cezarcampos.com.br>
 License: GPL-3+
 
 License: GPL-3+

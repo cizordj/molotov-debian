@@ -1,7 +1,6 @@
-Bug-Database: "https://github.com/cizordj/molotov/issues"
-Bug-Submit: https://github.com/cizordj/molotov/issues/new
+Bug-Database: "https://codeberg.org/cizordj/molotov/issues"
+Bug-Submit: "https://codeberg.org/cizordj/molotov/issues/new"
 Cite-As: "Molotov or Molotov USB"
-FAQ: "https://cizordj.codeberg.page/molotov/#faq"
-Other-References: "https://cizordj.codeberg.page/molotov/"
-Repository: "https://github.com/cizordj/molotov.git"
-Repository-Browse: "https://github.com/cizordj/molotov"
+FAQ: "https://codeberg.org/cizordj/molotov#readme"
+Repository: "https://codeberg.org/cizordj/molotov.git"
+Repository-Browse: "https://codeberg.org/cizordj/molotov"

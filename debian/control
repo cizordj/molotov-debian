@@ -1,13 +1,13 @@
 Source: molotov
 Section: contrib/otherosfs
 Priority: optional
-Maintainer: Cézar Augusto de Campos <cezargaiteiro+mentors.debian.net@proton.me>
+Maintainer: Cézar Augusto de Campos <debian@cezarcampos.com.br>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.1
 Rules-Requires-Root: no
-Homepage: https://cizordj.codeberg.page/molotov/
-Vcs-Browser: https://github.com/cizordj/molotov-debian
-Vcs-Git: https://github.com/cizordj/molotov-debian.git
+Homepage: https://codeberg.org/cizordj/molotov-debian/
+Vcs-Browser: https://codeberg.org/cizordj/molotov-debian/
+Vcs-Git: https://codeberg.org/cizordj/molotov-debian.git
 
 Package: molotov
 Architecture: amd64
@@ -22,9 +22,9 @@ Depends: dash,
  grub-efi-amd64-bin (>= 2.04),
  grub-pc-bin (>= 2.04),
  ${misc:Depends}
-Description: Create a bootable media from a Windows 10 iso image
- The Molotov project aims to make it easy to create a bootable flash drive for
- Windows 10 installation. What you need is a Windows® 10 iso image which can be
- downloaded from Microsoft's website and a flash drive with at least 8Gb.
- This program may work in older versions of Windows as well, although it is
+Description: Create a bootable flash drive from a Windows 10/11 ISO image
+ The Molotov project simplifies the creation of a bootable flash drive for
+ Windows installation. You need a Windows ISO image, downloadable from
+ Microsoft's website, and a flash drive with at least 8GB of storage.
+ This program might work with older versions of Windows, but they are
  not supported.
